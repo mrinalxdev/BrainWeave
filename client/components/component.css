@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap");
+.center {
+    width: 35%;
+    margin: auto;
+    padding: 50px 50px;
+    background: #fff;
+    border: solid #E3E3E3 1px;
+    border-radius: 20px;
+  }
+  .center h1 {
+    font-size: 1.5em;
+    border-left: 5px solid dodgerblue;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 5px;
+    color: #000;
+    letter-spacing: 5px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    padding-left: 10px;
+  }
+  .center .inputbox {
+    position: relative;
+    width: 70%;
+    height: 20px;
+    margin-bottom: 50px;
+  }
+  .center .inputbox input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border: 2px solid #000;
+    outline: none;
+    background: none;
+    padding: 7px;
+    border-radius: 10px;
+    font-size: 0.9em;
+  }
+  .center .inputbox:last-child {
+    margin-bottom: 0;
+  }
+  .center .inputbox span {
+    position: absolute;
+    padding: 4px 35px;
+    font-size: 22px;
+    transition: 0.5s;
+    font-family: sans-serif;
+    color: gray;
+  }
+  .center .inputbox input:focus ~ span,
+  .center .inputbox input:valid ~ span {
+    transform: translateX(-13px) translateY(-35px);
+    font-size: 0.9em;
+  }
+  .center .inputbox [type="submit"] {
+    width: 50%;
+    background: dodgerblue;
+    color: #fff;
+    border: #fff;
+    font-size:1em;
+    transition: 0.3s all;
+  
+  }
+  .center .inputbox:hover [type="submit"] {
+    background-color: transparent;
+    color: #000;
+    border: 1.6px solid dodgerblue;
+    border-radius: 10px 40px ;
+  }
+  .container-fluid{
+    margin-left: 220px;
+    padding: 40px;
+
+}
