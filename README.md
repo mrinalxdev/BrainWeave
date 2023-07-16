@@ -1,7 +1,6 @@
 
-# Buy Me Shake 🤝
-
-A platform from which you can give your donations for the projects on my deployed smart contract. 
+# BrainWeave 🧠
+A platform where you can share your quotes and thoughts via decentralised smart contract 
 
 Learning from this Project :
 - How to Deploy smart contracts on testnet 
@@ -19,11 +18,13 @@ Learning from this Project :
 
  - Click on the Let's Go Button to Go to the main project
  - Connect Your Wallet with MetMask
- - Enter your name and message you want to send me 
+ - Enter your name and quote you want to send publicly 
 
  - Enter the Pay button to continue the transaction.
 
- When your transaction will be succesfull I will receive the ethers on my deplyoed contract .
+ - After the successful transaction . Your new quote will get updated publically in the table below
+
+
 
 
 ## Tech Stack
@@ -36,9 +37,11 @@ Learning from this Project :
 
 ## Future Updates
 
-- Flexible smart contract so that anyone can send to any wallet address .
+- Flexible smart contract so that anyone can send thoughts to another user privately .
 
-- Add more integrations
+- Add their own avatars and PFP 
+
+- More on integrations
 
 
 
