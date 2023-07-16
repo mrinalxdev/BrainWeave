@@ -24,7 +24,7 @@ const Buy = ({ state }) => {
        </div>
        <div className="inputbox">
          <input type="text" required="required" id="message" />
-         <span>Message</span>
+         <span>Thought</span>
        </div>
        <div className="inputbox">
          <input type="submit" value="Pay"  disabled={!state.contract}/>

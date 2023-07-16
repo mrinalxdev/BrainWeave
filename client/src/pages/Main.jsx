@@ -42,7 +42,7 @@ const Main = () => {
   return (
     <div>
       <div className="banner">
-        <h1>Buy Me A Shake 🤝</h1>
+        <h1>BrainWeave 🧠</h1>
       </div>
       <div className="act-btn">
         <div className="account">Connected accounts : {account}</div>

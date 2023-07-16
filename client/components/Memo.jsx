@@ -27,8 +27,8 @@ const Memo = ({ state }) => {
                     padding: "7px",
                     width: "100px",
                     color:"white",
-                    borderRadius : "5px"
-                   
+                    borderRadius : "5px",
+                    textAlign : "center",
                   }}
                 >
                   {memo.name}
@@ -42,7 +42,8 @@ const Memo = ({ state }) => {
                     padding: "7px",
                     width: "300px",
                     color:"white",
-                    borderRadius : "5px"
+                    borderRadius : "5px",
+                    textAlign : "center"
                   }}
                 >
                   {memo.message}
@@ -52,10 +53,11 @@ const Memo = ({ state }) => {
                     backgroundColor: "black",
                     border: "1px solid white",
                     borderCollapse: "collapse",
-                    padding: "7px",
+                    padding: "2rem",
                     width: "400px",
                     color:"white",
-                    borderRadius : "5px"
+                    borderRadius : "5px",
+                    textAlign : "center"
                   }}
                 >
                   {memo.from}

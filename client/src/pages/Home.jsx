@@ -10,7 +10,7 @@ const Home = () => {
         </nav>
 
         <div className="main">
-          <h1>A Project where the transaction of ether gets depoisited in a Deployed Smart Contract. </h1>
+          <h1>A Project where you can express your thoughts and store it in a decentralized smart contract. </h1>
           <Link to="/main" className='main_button'>
             <button>
               Let's Go
