@@ -21,7 +21,7 @@ const Memo = ({ state }) => {
               <tr >
                 <td 
                   style={{
-                    backgroundColor: "dodgerblue",
+                    backgroundColor: "black",
                     border: "1px solid white",
                     borderCollapse: "collapse",
                     padding: "7px",
@@ -36,7 +36,7 @@ const Memo = ({ state }) => {
         
                 <td  
                   style={{
-                    backgroundColor: "dodgerblue",
+                    backgroundColor: "black",
                     border: "1px solid white",
                     borderCollapse: "collapse",
                     padding: "7px",
@@ -49,7 +49,7 @@ const Memo = ({ state }) => {
                 </td>
                 <td  className="container-fluid"
                   style={{
-                    backgroundColor: "dodgerblue",
+                    backgroundColor: "black",
                     border: "1px solid white",
                     borderCollapse: "collapse",
                     padding: "7px",

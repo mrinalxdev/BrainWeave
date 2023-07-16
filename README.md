@@ -34,6 +34,12 @@ Learning from this Project :
 
 **Environment:** Hardhat and Ether.js
 
+## Future Updates
+
+- Flexible smart contract so that anyone can send to any wallet address .
+
+- Add more integrations
+
 
 
 

@@ -55,7 +55,7 @@
   }
   .center .inputbox [type="submit"] {
     width: 50%;
-    background: dodgerblue;
+    background: #000;
     color: #fff;
     border: #fff;
     font-size:1em;
@@ -64,7 +64,7 @@
   }
   .center .inputbox:hover [type="submit"] {
     background-color: transparent;
-    color: #000;
+    color: #fff;
     border: 1.6px solid dodgerblue;
     border-radius: 10px 40px ;
   }
